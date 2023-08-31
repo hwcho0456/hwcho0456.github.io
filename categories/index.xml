@@ -14,6 +14,30 @@
         <guid>https://hwcho0456.github.io/categories/example-category/</guid>
         <description></description>
         </item>
+        <item>
+        <title>aivle</title>
+        <link>https://hwcho0456.github.io/categories/aivle_school/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://hwcho0456.github.io/categories/aivle_school/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>book review</title>
+        <link>https://hwcho0456.github.io/categories/book_reviews/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://hwcho0456.github.io/categories/book_reviews/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Programming</title>
+        <link>https://hwcho0456.github.io/categories/programming/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://hwcho0456.github.io/categories/programming/</guid>
+        <description></description>
+        </item>
         
     </channel>
 </rss>
