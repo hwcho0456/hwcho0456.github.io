@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Programming on Hugo Theme Stack Starter</title>
+        <title>Programming on 조현우의 개인 블로그</title>
         <link>https://hwcho0456.github.io/categories/programming/</link>
-        <description>Recent content in Programming on Hugo Theme Stack Starter</description>
+        <description>Recent content in Programming on 조현우의 개인 블로그</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ko</language><atom:link href="https://hwcho0456.github.io/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     </channel>

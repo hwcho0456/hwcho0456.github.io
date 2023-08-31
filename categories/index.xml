@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on Hugo Theme Stack Starter</title>
+        <title>Categories on 조현우의 개인 블로그</title>
         <link>https://hwcho0456.github.io/categories/</link>
-        <description>Recent content in Categories on Hugo Theme Stack Starter</description>
+        <description>Recent content in Categories on 조현우의 개인 블로그</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ko</language>
         <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hwcho0456.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
@@ -15,19 +15,19 @@
         <description></description>
         </item>
         <item>
-        <title>aivle</title>
-        <link>https://hwcho0456.github.io/categories/aivle_school/</link>
+        <title>Aivle</title>
+        <link>https://hwcho0456.github.io/categories/aivle-school/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://hwcho0456.github.io/categories/aivle_school/</guid>
+        <guid>https://hwcho0456.github.io/categories/aivle-school/</guid>
         <description></description>
         </item>
         <item>
         <title>book review</title>
-        <link>https://hwcho0456.github.io/categories/book_reviews/</link>
+        <link>https://hwcho0456.github.io/categories/book-reviews/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://hwcho0456.github.io/categories/book_reviews/</guid>
+        <guid>https://hwcho0456.github.io/categories/book-reviews/</guid>
         <description></description>
         </item>
         <item>
